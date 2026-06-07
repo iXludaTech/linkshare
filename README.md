@@ -24,7 +24,7 @@ Built on the [Legato Framework](https://github.com/devscreencast/legato-framewor
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/jehubx/linkshare.git
+git clone https://github.com/iXludaTech/linkshare.git
 cd linkshare
 
 # 2. Install PHP dependencies
@@ -100,3 +100,5 @@ LinkShare is open-sourced software licensed under the [MIT license](https://open
 ## Security
 
 If you discover a security vulnerability, please open an issue on the GitHub repository.
+
+iXluda-Tech
